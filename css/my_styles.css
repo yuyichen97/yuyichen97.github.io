@@ -1,3 +1,40 @@
+.bg-primary{
+    background-color:pink!important;
+    background-image: url(../assets/img/照片.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+#redred{
+    padding: 50px 150px 80px 0px;
+    border: 10px solid orange;
+    border-radius: 5px;
+    margin: 0px 0px 100px 50%;
+
+    background-color:rgb( 138, 43, 226, 0.5);
+    color:white;
+    background-image: url(../assets/img/照片.png);
+    font-size: 40px;
+    text-align: center;
+    font-family:'Noto Serif TC',sans-serif;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+
+div#redred{
+    padding-bottom: 50px;
+    padding-top: 30px;
+    background-color: rgb(98, 0, 255);
+    color:white;
+    border: 10px dashed red;
+    background-image: url(../assets/img/照片.png);
+    font-size: 40px;
+    text-align: center;
+    font-family:'Noto Serif TC',sans-serif;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
 p.redred{
     background-color: black;
     color:antiquewhite;
