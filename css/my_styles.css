@@ -15,6 +15,26 @@ p.redred{
     text-align: center;
 }
 
+.blueblue{
+    color: blue;
+}
+
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    }
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Noto Serif TC', sans-serif;
+    }
+
+.expedu_icon{
+    color: red;
+}
+
+.expedu_icon:hover{
+    color: white;
+    background-color: red;
+}
+
 #redred{
     padding: 50px 150px 80px 0px;
     border: 10px solid orange;
