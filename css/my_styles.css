@@ -1,18 +1,18 @@
 .bg-primary{
     background-color:pink!important;
-    background-image: url(../assets/img/photo.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-image: url(../assets/img/photo.jpg);
 }
 
 p.redred{
+    background-color: black;
     color: white;
-    background-color: aqua;
-    border: 10px solid blueviolet;
-    background-image: url(../assets/img/photo.png);
-    font-size: 40px;
+    border: 20px solid;
+    border-color: brown;
+    font-size:40px;
     text-align: center;
+    font-family: 'Noto Serif TC', sans-serif;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
 }
 
 .blueblue{
