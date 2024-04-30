@@ -1,6 +1,9 @@
 .bg-primary{
     background-color:pink!important;
     background-image: url(../assets/img/photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 p.redred{
